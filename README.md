@@ -1,2 +1,3 @@
 # BlackHatGo
  
+Just Playing Go 
